@@ -20,6 +20,7 @@ API documentation:
   
 Build status: 
   [![Build Status](https://travis-ci.org/OctoMap/octomap.png?branch=devel)](https://travis-ci.org/OctoMap/octomap)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Foctomap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Foctomap?ref=badge_shield)
   
 Report bugs and request features in our tracker:
   https://github.com/OctoMap/octomap/issues
@@ -59,3 +60,6 @@ top-level directory where you started the build.
 
 See [octomap README](octomap/README.md) and [octovis README](octovis/README.md) for further
 details and hints on compiling, especially under Windows.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Foctomap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Foctomap?ref=badge_large)
